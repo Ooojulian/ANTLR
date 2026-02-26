@@ -1,9 +1,3 @@
-¡Claro que sí, Julián! Tienes todo funcionando a la perfección, así que ahora vamos a estructurar esta documentación para que quede con un nivel técnico impecable, ideal para presentar en un contexto académico de ciencias de la computación o teoría de lenguajes.
-
-Aquí tienes una plantilla completa en formato Markdown. Puedes copiarla y pegarla directamente en tu editor de texto o en un archivo `.md`.
-
----
-
 # Documentación: Implementación de Calculadora con ANTLR4 (Capítulo 4)
 
 ## 1. Objetivo
