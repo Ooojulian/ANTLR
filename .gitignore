@@ -1,0 +1,11 @@
+cat << 'EOF' > .gitignore
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales de ANTLR
+*.interp
+*.tokens
+
+# Clases de Java autogeneradas por ANTLR
+LabeledExpr*.java
+EOF
